@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Imran Khalid</h1>
 
-<!--
-**imrankhalid001/imrankhalid001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me :
+- 😄 Pronouns: He/His
+- 🔭 I’m currently I’m currently working as an Android Developer.
+- 🌱 I’m currently learning Flutter development.
+- 🤔 I’m looking for help with VelocityX documentation.
+- 💬 Ask me about Android or any tech-related stuff.
+- 📫 How to reach me: Check social links below.
+- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
