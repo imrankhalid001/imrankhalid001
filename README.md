@@ -11,4 +11,4 @@
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Android or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend almost 8 hours listening to songs while coding every day.
+- ⚡ Fun fact: I spend almost 8 hours listening to songs every day while coding.
