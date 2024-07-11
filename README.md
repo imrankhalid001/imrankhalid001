@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Imran Khalid</h1>
-<h3 align="center">A passionate Mobile App developer My main focus is developing mobile apps for clients using Android and Flutter 💙 And looking forward to learn more about backend development 🌐 I love sharing my experience and knowledge via articles 📝 I’m currently learning Flutter,Figma. ☞ Connect with me: 👉(https://linkedin.com/in/https://www.linkedin.com/in/ariba1039/) ☞ Hire me for your next project</h3>
+<h6 align="center">A passionate Mobile App developer My main focus is developing mobile apps for clients using Android and Flutter 💙 And looking forward to learn more about backend development 🌐 I love sharing my experience and knowledge via articles 📝 I’m currently learning Flutter,Figma. ☞ Connect with me: 👉(https://linkedin.com/in/https://www.linkedin.com/in/ariba1039/) ☞ Hire me for your next project</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrankhalid001&label=Profile%20views&color=0e75b6&style=flat" alt="imrankhalid001" /> </p>
 
