@@ -8,11 +8,11 @@
   My main focus is developing mobile apps for clients using Android and Flutter 💙.<br>
   I am looking forward to learning more about backend development 🌐.<br>
   I love sharing my experience and knowledge via articles 📝.<br>
-  I’m currently learning Flutter and Figma.
+  Senior Mobile Developer with 6 years building production Android and Flutter apps. I've shipped apps live on the Play Store, App        Store, and Huawei Gallery, including a fintech car rental app with Mada Pay / Paytabs / Hyperpay payment integrations and               multilingual support. Looking for remote opportunities.
 </h4>
 
 <h4 align="start">
-  ☞ Connect with me: 👉 <a href="https://www.linkedin.com/in/ariba1039/" target="_blank"><b>LinkedIn</b></a><br>
+  ☞ Connect with me: 👉 <a href="https://www.linkedin.com/in/imrankhalid001" target="_blank"><b>LinkedIn</b></a><br>
   ☞ Hire me for your next project
 </h4>
 
@@ -22,13 +22,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imrankhalid001" alt="imrankhalid001" /></a> </p>
 
-- 📫 How to reach me **https://www.linkedin.com/in/imran-khalid-458a59161**
+- 📫 How to reach me **https://www.linkedin.com/in/imrankhalid001**
 
 - ⚡ Fun fact **I love to Google flutter related material.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/imran-khalid-458a59161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imran-khalid-458a59161" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/imrankhalid001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imrankhalid001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
