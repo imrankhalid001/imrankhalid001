@@ -8,6 +8,7 @@
   My main focus is developing mobile apps for clients using Android and Flutter 💙.<br>
   I am looking forward to learning more about backend development 🌐.<br>
   I love sharing my experience and knowledge via articles 📝.<br>
+         
   Senior Mobile Developer with 6 years building production Android and Flutter apps. I've shipped apps live on the Play Store, App        Store, and Huawei Gallery, including a fintech car rental app with Mada Pay / Paytabs / Hyperpay payment integrations and               multilingual support. Looking for remote opportunities.
 </h4>
 
